@@ -7,4 +7,5 @@ public class Dept {
     private Integer deptId;
     private String dname;
     private String location;
+
 }

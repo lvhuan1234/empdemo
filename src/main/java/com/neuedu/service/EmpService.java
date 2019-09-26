@@ -17,4 +17,6 @@ public interface EmpService {
     Emp getEmpById(Integer empId);
 
     int updateEmpById(Emp emp);
+
+
 }
